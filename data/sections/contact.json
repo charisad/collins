@@ -33,8 +33,8 @@
             "id": 1,
             "component": "ArticleContactForm",
             "settings": {
-                "email_js_public_key": "tzObcsmOwHvPy6Rhp",
-                "email_js_service_id": "service_4h8g7vb",
+                "email_js_public_key": "eAkGbc0UZWQ8pz28B",
+                "email_js_service_id": "service_n9px9lo",
                 "email_js_template_id": "template_react"
             },
             "locales": {
@@ -55,12 +55,6 @@
                     "contact_thank_you_body": "Votre message a été reçu, et je vous contacterai bientôt. J'apprécie votre temps et j'ai hâte de me connecter avec vous!",
                     "contact_thank_you_footer": "La réponse sera envoyée à votre adresse e-mail: {{$email}}",
                     "title": "Envoyez-moi un {{message}}"
-                },
-                "ko": {
-                    "contact_thank_you_title": "{{감사합니다}}!",
-                    "contact_thank_you_body": "귀하의 메시지를 받았으며 곧 연락드리겠습니다. 귀하의 시간에 감사드리며 연결되기를 기대합니다!",
-                    "contact_thank_you_footer": "답변은 귀하의 이메일 주소 {{$email}}로 전송됩니다.",
-                    "title": "{{메시지를}} 보내주세요"
                 }
             },
             "items": null
@@ -76,32 +70,29 @@
             "locales": {
                 "en": {"title": "Or if you {{prefer}}..."},
                 "es": {"title": "O si {{prefieres}}..."},
-                "fr": {"title": "Ou si vous {{préférez}}..."},
-                "ko": {"title": "또는 {{원하시면}}..."}
+                "fr": {"title": "Ou si vous {{préférez}}..."}
             },
             "items": [
                 {
                     "id": 1,
                     "faIcon": "fa-solid fa-phone",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "+1 (123) 456-7890",
-                    "link": {"href": "tel:11234567890", "tooltipString": "call_me"},
+                    "label": "+233 241-036-146",
+                    "link": {"href": "tel:0241036146", "tooltipString": "call_me"},
                     "locales": {
                         "en": {"title": "Phone"},
                         "es": {"title": "Teléfono"},
-                        "fr": {"title": "Téléphone"},
-                        "ko": {"title": "전화"}
+                        "fr": {"title": "Téléphone"}
                     }
                 },
                 {
                     "id":2,
                     "faIcon": "fa-solid fa-envelope",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "mark.choi@email.com",
-                    "link": {"href": "mailto:mark.choi@email.com", "tooltipString": "email_me"},
+                    "label": "adombaffourcollins@gmail.com",
+                    "link": {"href": "mailto:adombaffourcollins@gmail.com", "tooltipString": "email_me"},
                     "locales": {
-                        "en": {"title": "E-mail"},
-                        "ko": {"title": "이메일"}
+                        "en": {"title": "E-mail"}
                     }
                 },
                 {
@@ -111,8 +102,7 @@
                     "label": "@markchoi",
                     "link": {"href": "https://linkedin.com/in/", "tooltipString": "open_website"},
                     "locales": {
-                        "en": {"title": "LinkedIn"},
-                        "ko": {"title": "링크드인"}
+                        "en": {"title": "LinkedIn"}
                     }
                 },
                 {
@@ -122,8 +112,7 @@
                     "label": "Mark Choi",
                     "link": {"href": "https://facebook.com/profiles/mark.choi.855/default", "tooltipString": "open_website"},
                     "locales": {
-                        "en": {"title": "Facebook"},
-                        "ko": {"title": "페이스북"}
+                        "en": {"title": "Facebook"}
                     }
                 },
                 {
@@ -133,8 +122,7 @@
                     "label": "@codingmark",
                     "link": {"href": "https://instagram.com/", "tooltipString": "open_website"},
                     "locales": {
-                        "en": {"title": "Instagram"},
-                        "ko": {"title": "인스타그램"}
+                        "en": {"title": "Instagram"}
                     }
                 },
                 {
@@ -144,8 +132,7 @@
                     "label": "@markchoi",
                     "link": {"href": "https://tiktok.com/@markchoi", "tooltipString": "open_website"},
                     "locales": {
-                        "en": { "title": "TikTok" },
-                        "ko": { "title": "틱톡" }
+                        "en": { "title": "TikTok" }
                     }
                 }
             ]
