@@ -18,12 +18,6 @@
                 "title_short_nav": "Mises à Jour",
                 "title_long_prefix": "Découvrez mes",
                 "title_long": "Dernières {{Mises à Jour}}"
-            },
-            "ko": {
-                "title_short": "최근의 삶",
-                "title_short_nav": "업데이트",
-                "title_long_prefix": "내 최근",
-                "title_long": "{{업데이트}}를 확인해 보세요"
             }
         }
     },
@@ -53,9 +47,6 @@
                         },
                         "fr": {
                             "text": "Applications Publiées"
-                        },
-                        "ko": {
-                            "text": "출시된 앱"
                         }
                     }
                 },
@@ -74,9 +65,6 @@
                         },
                         "fr": {
                             "text": "Étoiles sur GitHub"
-                        },
-                        "ko": {
-                            "text": "GitHub의 별"
                         }
                     }
                 },
@@ -95,9 +83,6 @@
                         },
                         "fr": {
                             "text": "Pays Visités"
-                        },
-                        "ko": {
-                            "text": "방문한 국가"
                         }
                     }
                 },
@@ -116,9 +101,6 @@
                         },
                         "fr": {
                             "text": "Projets Open-source"
-                        },
-                        "ko": {
-                            "text": "오픈 소스 프로젝트"
                         }
                     }
                 },
@@ -137,9 +119,6 @@
                         },
                         "fr": {
                             "text": "Cafés Consommés"
-                        },
-                        "ko": {
-                            "text": "소비된 커피"
                         }
                     }
                 },
@@ -158,9 +137,6 @@
                         },
                         "fr": {
                             "text": "Lignes de code"
-                        },
-                        "ko": {
-                            "text": "코드 라인 수"
                         }
                     }
                 },
@@ -181,10 +157,6 @@
                         "fr": {
                             "title": "Infinie",
                             "text": "Passion d'apprendre"
-                        },
-                        "ko": {
-                            "title": "무한대",
-                            "text": "배움에 대한 열정"
                         }
                     }
                 }
@@ -197,8 +169,7 @@
             "locales": {
                 "en": { "title": "Quick {{Facts}}" },
                 "es": { "title": "Feed de {{Noticias}}" },
-                "fr": { "title": "Fil d'{{Actualités}}" },
-                "ko": { "title": "{{뉴스}} 피드" }
+                "fr": { "title": "Fil d'{{Actualités}}" }
             },
             "settings": {
                 "max_rows_collapse_threshold": 3,
@@ -236,13 +207,6 @@
                             "country": "Canada",
                             "institution": "",
                             "text": "Je viens de déménager en Californie, aux États-Unis, pour explorer de nouvelles opportunités, tant professionnelles que personnelles. J'ai hâte de découvrir ce que cet État dynamique a à offrir et de relever tous les défis et expériences qui accompagnent ce nouveau chapitre de ma vie. Excité pour ce qui m'attend ! Restez à l'écoute pour des mises à jour sur mon parcours et les aventures qui m'attendent dans l'État d'Or !"
-                        },
-                        "ko": {
-                            "title": "{{캘리포니아로 이사!}}",
-                            "province": "온타리오",
-                            "country": "캐나다",
-                            "institution": "",
-                            "text": "최근에 미국 캘리포니아로 이사하여 새로운 직업적, 개인적 기회를 탐색하고 있습니다. 이 활기찬 주가 제공하는 것들을 발견하고, 이 새로운 장에서 오는 모든 도전과 경험을 받아들이는 것이 기대됩니다. 앞으로의 여정과 황금 주에서 기다리는 모험에 대한 업데이트를 기대해 주세요!"
                         }
                     }
                 },
@@ -276,13 +240,6 @@
                             "country": "États-Unis",
                             "institution": "",
                             "text": "Je suis ravi d'annoncer le lancement de ma propre chaîne YouTube ! 🎥✨ Rejoignez-moi dans cette aventure passionnante où je partagerai ma passion pour la technologie, la programmation et tout ce qui est numérique. Des tutoriels et astuces aux présentations de projets, j'ai hâte de me connecter avec vous tous à travers cette plateforme. N'oubliez pas de vous abonner et d'activer la cloche de notification pour rester informé de mes dernières vidéos. Embarquons ensemble dans cette aventure !"
-                        },
-                        "ko": {
-                            "title": "{{유튜브 채널!}} 시작",
-                            "province": "캘리포니아",
-                            "country": "미국",
-                            "institution": "",
-                            "text": "저의 유튜브 채널을 시작하게 되어 매우 기쁩니다! 🎥✨ 기술, 코딩, 디지털 관련 모든 것에 대한 열정을 공유하는 이 흥미진진한 여정에 여러분을 초대합니다. 튜토리얼과 팁부터 프로젝트 소개까지, 이 플랫폼을 통해 여러분과 소통할 수 있기를 기대합니다. 구독하고 알림 벨을 눌러 최신 동영상을 받아보세요. 함께 이 모험을 시작해 봅시다!"
                         }
                     }
                 },
@@ -336,19 +293,6 @@
                                 "Intégration avec des API populaires pour une fonctionnalité améliorée",
                                 "Synchronisation des données en temps réel pour une expérience utilisateur fluide"
                             ]
-                        },
-                        "ko": {
-                            "title": "{{모바일 프로젝트!}} 작업 중",
-                            "province": "캘리포니아",
-                            "country": "미국",
-                            "institution": "",
-                            "text": "현재 새로운 모바일 프로젝트를 작업 중입니다! 이 프로젝트의 몇 가지 기능은 다음과 같습니다:",
-                            "list": [
-                                "iOS 및 Android와의 크로스 플랫폼 호환성",
-                                "직관적인 탐색을 갖춘 사용자 친화적인 인터페이스",
-                                "기능 향상을 위한 인기 API 통합",
-                                "원활한 사용자 경험을 위한 실시간 데이터 동기화"
-                            ]
                         }
                     }
                 },
@@ -382,13 +326,6 @@
                             "country": "Japon",
                             "institution": "Tech Innovators Inc.",
                             "text": "Je suis ravi d’annoncer que je participerai à la [[Tech Conference 2025]] à Tokyo, au Japon ! Cet événement est une occasion formidable de rencontrer des leaders du secteur, de découvrir les dernières tendances technologiques et d’échanger avec d’autres passionnés de tech. J’ai hâte de participer aux discussions, d’assister aux ateliers et d’explorer des solutions innovantes qui façonnent l’avenir de notre industrie. Si vous assistez à la conférence, n’hésitez pas à me contacter ! Ce serait un plaisir de rencontrer d’autres développeurs et amateurs de technologie. Restez connectés pour des mises à jour et des moments forts de l’événement !"
-                        },
-                        "ko": {
-                            "title": "{{기술 컨퍼런스 2025!}} 참석",
-                            "province": "도쿄",
-                            "country": "일본",
-                            "institution": "Tech Innovators Inc.",
-                            "text": "[[2025년 도쿄에서 열리는]] 기술 컨퍼런스에 참석하게 되어 매우 기쁩니다! 이 행사는 업계 리더들과 연결하고 최신 기술 트렌드를 배우며, 다른 기술 애호가들과 통찰력을 공유할 수 있는 환상적인 기회입니다. 토론에 참여하고, 워크숍에 참석하며, 우리 산업의 미래를 형성하는 혁신적인 솔루션을 탐색할 수 있기를 기대합니다. 컨퍼런스에 참석하신다면, 함께 연결해요! 다른 개발자와 기술 애호가들을 만나고 싶습니다. 행사에서의 업데이트와 하이라이트를 기대해 주세요!"
                         }
                     }
                 },
@@ -442,19 +379,6 @@
                                 "Blog avec des articles sur la technologie, la programmation et mes expériences personnelles",
                                 "Formulaire de contact pour les demandes et collaborations",
                                 "Liens vers mes profils sur les réseaux sociaux et GitHub"
-                            ]
-                        },
-                        "ko": {
-                            "title": "{{개인 웹사이트!}} 출시",
-                            "province": "캘리포니아",
-                            "country": "미국",
-                            "institution": "",
-                            "text": "개인 웹사이트를 출시하게 되어 매우 기쁩니다! 🎉 이 플랫폼은 제가 프로젝트, 블로그 게시물 및 기술과 개발 세계에 대한 통찰력을 공유할 수 있는 공간입니다. 사랑으로 만든 결과물이며, 여러분이 탐험하기를 기대합니다. 사이트에서 찾을 수 있는 몇 가지 하이라이트는 다음과 같습니다:",
-                            "list": [
-                                "프로젝트와 기여를 보여주는 포트폴리오",
-                                "기술, 코딩 및 개인 경험에 관한 블로그",
-                                "문의 및 협업을 위한 연락처 양식",
-                                "소셜 미디어 프로필 및 GitHub 링크"
                             ]
                         }
                     }
