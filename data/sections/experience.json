@@ -47,13 +47,13 @@
                     "dateEnd": {"year": 2018, "month": 6},
                     "locales": {
                         "en": {
-                            "title": "{{Backend}} Developer",
-                            "province": "Toronto",
-                            "country": "Canada",
-                            "institution": "Sapphire Studio",
+                            "title": "{{Site Reliability}} Engineer",
+                            "province": "Accra",
+                            "country": "Ghana",
+                            "institution": "Hubtel Limited",
                             "text": "Developed and maintained [[scalable backend systems]] for various clients, optimizing database performance and implementing RESTful APIs to improve application functionality.",
                             "list": [],
-                            "tags": ["PHP8.0", "MySQL", "Laravel"]
+                            "tags": ["AWS", "Azure DevOps", "Kubernetes"]
                         },
                         "es": {
                             "title": "Desarrollador {{Backend}}",
@@ -72,15 +72,6 @@
                             "text": "Développement et maintenance de [[systèmes backend évolutifs]] pour divers clients, optimisation des performances des bases de données et mise en place d’API RESTful pour améliorer les fonctionnalités des applications.",
                             "list": [],
                             "tags": []
-                        },
-                        "ko": {
-                            "title": "{{백엔드}} 개발자",
-                            "province": "토론토",
-                            "country": "캐나다",
-                            "institution": "Sapphire Studio",
-                            "text": "다양한 클라이언트를 위한 [[확장 가능한 백엔드 시스템]]을 개발하고 유지보수했으며, 데이터베이스 성능을 최적화하고 RESTful API를 구현하여 애플리케이션 기능을 향상시켰습니다.",
-                            "list": [],
-                            "tags": []
                         }
                     }
                 },
@@ -93,10 +84,10 @@
                     "dateEnd": {"year": 2020, "month": 12},
                     "locales": {
                         "en": {
-                            "title": "{{Full-Stack}} Engineer",
-                            "province": "",
-                            "country": "Remote",
-                            "institution": "Coursera",
+                            "title": "{{DevOps}} Engineer",
+                            "province": "Accra",
+                            "country": "Ghana",
+                            "institution": "Sovereign Payment Solutions Limited",
                             "text": "Worked on enhancing the Coursera website by implementing new features and improving user experience, utilizing both frontend and backend technologies to ensure seamless functionality.",
                             "list": [],
                             "tags": ["Svelte", "NodeJS", "Laravel", "REST APIs", "Docker"]
@@ -139,10 +130,10 @@
                     "dateEnd": {"year": 2022, "month": 11},
                     "locales": {
                         "en": {
-                            "title": "{{Backend}} Engineer",
-                            "province": "New York",
-                            "country": "US",
-                            "institution": "Adobe Inc",
+                            "title": "{{Software}} Engineer",
+                            "province": "Takoradi",
+                            "country": "Ghana",
+                            "institution": "Amalitech Services",
                             "text": "Contributed to the development of robust backend systems for Adobe Creative Cloud, integrating third-party services and improving data processing efficiency through cloud functions.",
                             "list": [],
                             "tags": ["JavaScript", "Flutter", "MongoDB", "CodeIgniter", "Kubernetes"]
@@ -164,15 +155,6 @@
                             "text": "Participation au développement de systèmes backend robustes pour Adobe Creative Cloud, intégration de services tiers et amélioration de l’efficacité du traitement des données via des fonctions cloud.",
                             "list": [],
                             "tags": []
-                        },
-                        "ko": {
-                            "title": "{{백엔드}} 엔지니어",
-                            "province": "뉴욕",
-                            "country": "미국",
-                            "institution": "Adobe Inc",
-                            "text": "Adobe Creative Cloud를 위한 견고한 백엔드 시스템 개발에 기여하였으며, 서드파티 서비스 통합 및 클라우드 기능을 활용한 데이터 처리 효율 향상에 집중했습니다.",
-                            "list": [],
-                            "tags": []
                         }
                     }
                 },
@@ -185,10 +167,10 @@
                     "dateEnd": {"now": true},
                     "locales": {
                         "en": {
-                            "title": "{{Senior Backend}} Developer",
-                            "province": "California",
-                            "country": "US",
-                            "institution": "Apple Inc",
+                            "title": "{{Database}} Administrator",
+                            "province": "Kumasi",
+                            "country": "Ghana",
+                            "institution": "National Service Scheme",
                             "text": "Leading a team of developers to design and implement backend solutions for Apple's services, with a focus on:",
                             "list": [
                                 "Security",
@@ -226,21 +208,6 @@
                                 "Le développement d’API RESTful",
                                 "L’optimisation des performances des bases de données avec PostgreSQL",
                                 "La création de services avec Swift, PHP et GraphQL"
-                            ],
-                            "tags": []
-                        },
-                        "ko": {
-                            "title": "{{시니어 백엔드}} 개발자",
-                            "province": "캘리포니아",
-                            "country": "미국",
-                            "institution": "Apple Inc",
-                            "text": "Apple의 서비스를 위한 백엔드 솔루션을 설계하고 구현하는 개발팀을 이끌며 다음에 중점을 두고 있습니다:",
-                            "list": [
-                                "보안",
-                                "전 세계 수백만 사용자를 처리할 수 있는 확장성",
-                                "RESTful API 개발",
-                                "PostgreSQL을 사용한 데이터베이스 성능 최적화",
-                                "Swift, PHP, GraphQL로 서비스 구축"
                             ],
                             "tags": []
                         }

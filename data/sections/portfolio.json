@@ -50,12 +50,6 @@
                     "category_apps": "Apps",
                     "category_web": "Web",
                     "category_utilities": "Utilitaires"
-                },
-                "ko": {
-                    "category_all": "모두",
-                    "category_apps": "앱",
-                    "category_web": "웹",
-                    "category_utilities": "유틸리티"
                 }
             },
             "settings": {
