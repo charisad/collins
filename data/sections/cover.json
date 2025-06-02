@@ -5,25 +5,19 @@
                 "title_short": "Welcome!",
                 "title_short_nav": "About me",
                 "title_long_prefix": "Hello...",
-                "title_long": "I'm {{Mark Choi!}}"
+                "title_long": "I'm {{Collins Adom Baffour!}}"
             },
             "es": {
                 "title_short": "¡Saludos!",
                 "title_short_nav": "Sobre mí",
                 "title_long_prefix": "Hola...",
-                "title_long": "Soy {{Mark Choi!}}"
+                "title_long": "Soy {{Collins Adom Baffour!}}"
             },
             "fr": {
                 "title_short": "Salut !",
                 "title_short_nav": "À propos",
                 "title_long_prefix": "Salut...",
-                "title_long": "Je suis {{Mark Choi !}}"
-            },
-            "ko": {
-                "title_short": "환영합니다!",
-                "title_short_nav": "소개",
-                "title_long_prefix": "안녕하세요...",
-                "title_long": "저는 {{최민석}}입니다!"
+                "title_long": "Je suis {{Collins Adom Baffour!}}"
             }
         }
     },
@@ -48,13 +42,13 @@
                 {
                     "id": 2,
                     "label": "mark.choi@dev.com",
-                    "link": {"href": "mailto:mark.choi@dev.com", "tooltipString": "email_me"},
+                    "link": {"href": "mailto:adombaffourcollins@gmail.com", "tooltipString": "email_me"},
                     "faIcon": "fa-regular fa-envelope"
                 },
                 {
                     "id": 3,
-                    "label": "@ryanbalieiro",
-                    "link": {"href": "https://github.com/ryanbalieiro", "tooltipString": "see_on_github"},
+                    "label": "@charisad",
+                    "link": {"href": "https://github.com/charisad", "tooltipString": "see_on_github"},
                     "faIcon": "fa-brands fa-github"
                 }
             ]
@@ -66,8 +60,7 @@
             "locales": {
                 "en": {"title": "{{A little bit}} about me..."},
                 "es": {"title": "{{Un poco}} sobre mí..."},
-                "fr": {"title": "{{Un peu}} à propos de moi..."},
-                "ko": {"title": "저에 {{대해 조금}}..."}
+                "fr": {"title": "{{Un peu}} à propos de moi..."} 
             },
             "settings": {
                 "order_items_by": "id",
@@ -103,8 +96,7 @@
             "locales": {
                 "en": {"title": "Client {{testimonials}}"},
                 "es": {"title": "Testimonios de {{clientes}}"},
-                "fr": {"title": "Témoignages de {{clients}}"},
-                "ko": {"title": "{{고객}} 추천사"}
+                "fr": {"title": "Témoignages de {{clients}}"} 
             },
             "settings": {
                 "order_items_by": "id",
