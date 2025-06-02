@@ -117,8 +117,8 @@
                     "img": "images/pictures/timeline-place-university-paris.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2020, "month": 9},
-                    "dateEnd": {"year": 2022, "month": 6},
+                    "dateStart": {"year": 2025, "month": 1},
+                    "dateEnd": {"year": 2026, "month": 3},
                     "locales": {
                         "en": {
                             "title": "{{Master's}} in Cyber Security and Digital Forensics",
