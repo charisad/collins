@@ -18,12 +18,6 @@
                 "title_short_nav": "Réalisations",
                 "title_long_prefix": "Voici",
                 "title_long": "Mes {{Réalisations}}"
-            },
-            "ko": {
-                "title_short": "경력 성과",
-                "title_short_nav": "경력 성과",
-                "title_long_prefix": "다음은",
-                "title_long": "{{경력 성과}}입니다"
             }
         }
     },
@@ -35,8 +29,7 @@
             "locales": {
                 "en": { "title": "Certifications" },
                 "es": { "title": "Certificaciones" },
-                "fr": { "title": "Certifications" },
-                "ko": { "title": "인증서" }
+                "fr": { "title": "Certifications" }
             },
             "settings": {
                 "order_items_by": "id",
@@ -60,9 +53,6 @@
                         },
                         "fr": {
                             "text": "Administrateur Kubernetes Certifié (CKA)"
-                        },
-                        "ko": {
-                            "text": "Kubernetes 인증 관리자 (CKA)"
                         }
                     }
                 },
@@ -84,9 +74,6 @@
                         },
                         "fr": {
                             "text": "Architecte de Solutions Certifié AWS - Associé"
-                        },
-                        "ko": {
-                            "text": "AWS 공인 솔루션 아키텍트 - 준회원"
                         }
                     }
                 },
@@ -108,9 +95,6 @@
                         },
                         "fr": {
                             "text": "Développeur Java Certifié"
-                        },
-                        "ko": {
-                            "text": "공인 자바 개발자"
                         }
                     }
                 },
@@ -132,9 +116,6 @@
                         },
                         "fr": {
                             "text": "Développeur Certifié MongoDB"
-                        },
-                        "ko": {
-                            "text": "MongoDB 공인 개발자"
                         }
                     }
                 }
@@ -188,13 +169,6 @@
                             "country": "États-Unis",
                             "institution": "MIT",
                             "text": "Récompensé pour une performance exceptionnelle dans l'optimisation des systèmes backend lors de mon projet de fin d'études, où j'ai amélioré l'efficacité du traitement des données de 30%. J'ai également reçu un certificat de reconnaissance pour cette réalisation."
-                        },
-                        "ko": {
-                            "title": "{{최우수 졸업 프로젝트}} – 백엔드 최적화",
-                            "province": "매사추세츠",
-                            "country": "미국",
-                            "institution": "MIT",
-                            "text": "졸업 프로젝트에서 백엔드 시스템 최적화로 뛰어난 성과를 인정받아 수상하였으며, 데이터 처리 효율을 30% 향상시켰습니다. 이 성과에 대한 인증서도 받았습니다."
                         }
                     }
                 },
